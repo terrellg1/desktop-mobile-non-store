@@ -1,0 +1,61 @@
+{
+  "nonchalant-zip": {
+    "hidden": false,
+    "name": "Vêtements Zip Hoodie",
+    "price": "208"
+  },
+  "arrow-pants": {
+    "name": "Plot Twist Sweatpants",
+    "price": "198"
+  },
+  "zos-sweatpants": {
+    "name": "Logo Sweatpants",
+    "price": "198"
+  },
+  "nonchalant-sweatpants": {
+    "name": "Retro  Sweatpants",
+    "price": "198"
+  },
+  "daymaker-tee": {
+    "hidden": true
+  },
+  "zos-ride-tee": {
+    "name": "Short Boy Tee",
+    "price": "148"
+  },
+  "console-hoodie": {
+    "name": "Logo Ballon Hoodie",
+    "price": "238"
+  },
+  "skeleton-hoodie": {
+    "hidden": true,
+    "name": "Skeleton Ballon Hoodie",
+    "price": "238"
+  },
+  "athletics-zip": {
+    "name": "Athletics Zip Hoodie",
+    "price": "208"
+  },
+  "nonchalant-crew": {
+    "name": "Retro Sweatshirt",
+    "price": "188"
+  },
+  "love-tee": {
+    "name": "I ♥ NON Box Tee",
+    "price": "138"
+  },
+  "non-zip": {
+    "price": "208"
+  },
+  "world-tee": {
+    "price": "128"
+  },
+  "asl-longsleeve": {
+    "price": "158"
+  },
+  "beanie": {
+    "price": "68",
+    "tag": "Coming soon",
+    "hidden": true
+  }
+}
