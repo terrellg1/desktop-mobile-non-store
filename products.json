@@ -1,61 +1,181 @@
 {
-  "nonchalant-zip": {
+  "1": {
+    "name": " NON World Tee",
+    "price": "$48",
+    "cat": "Tees",
+    "tag": "",
+    "isNew": true,
+    "badge": "New",
     "hidden": false,
-    "name": "Vêtements Zip Hoodie",
-    "price": "208"
+    "colors": [
+      {
+        "color": "#ffffff",
+        "name": "Bone",
+        "tile": "#E7DBC7",
+        "img": "admin-img/1-0.png"
+      }
+    ]
   },
-  "arrow-pants": {
-    "name": "Plot Twist Sweatpants",
-    "price": "198"
+  "3": {
+    "name": "Love NON Tee",
+    "price": "$58",
+    "cat": "Tees",
+    "tag": "",
+    "isNew": true,
+    "badge": "Best seller",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#e5dbcf",
+        "name": "Oat",
+        "tile": "#DFD0BA",
+        "img": "admin-img/3-0.png"
+      },
+      {
+        "name": "Bone",
+        "color": "#ffffff",
+        "tile": "#E6DAC6",
+        "img": "admin-img/3-1.png"
+      }
+    ]
   },
-  "zos-sweatpants": {
-    "name": "Logo Sweatpants",
-    "price": "198"
-  },
-  "nonchalant-sweatpants": {
-    "name": "Retro  Sweatpants",
-    "price": "198"
-  },
-  "daymaker-tee": {
-    "hidden": true
-  },
-  "zos-ride-tee": {
+  "4": {
     "name": "Short Boy Tee",
-    "price": "148"
+    "price": "$58",
+    "cat": "Tees",
+    "tag": "",
+    "isNew": false,
+    "badge": "",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#af9f87",
+        "name": "Sand",
+        "tile": "#DECFB8",
+        "img": "admin-img/4-0.png"
+      },
+      {
+        "color": "#B7B7B7",
+        "name": "Grey",
+        "tile": "#DAD4C8",
+        "img": "admin-img/4-1.png"
+      },
+      {
+        "color": "#3C3A38",
+        "name": "Charcoal",
+        "tile": "#D3CABA",
+        "img": "img/zos-ride-tee-charcoal.png"
+      }
+    ]
   },
-  "console-hoodie": {
-    "name": "Logo Ballon Hoodie",
-    "price": "238"
+  "5": {
+    "name": "Skeleton Hoodie \"pull-over\"",
+    "price": "$78",
+    "cat": "Hoodies",
+    "tag": "",
+    "isNew": true,
+    "badge": "Best seller",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#e7e8ec",
+        "name": "Ash",
+        "tile": "#DDD3C2",
+        "img": "img/skeleton-hoodie-front.png",
+        "back": "admin-img/5-0-back.png"
+      },
+      {
+        "color": "#e6be78",
+        "name": "Butter",
+        "tile": "#E9DCA8",
+        "img": "img/zos-hoodie-yellow.png",
+        "back": "img/skeleton-hoodie-yellow.png"
+      }
+    ]
   },
-  "skeleton-hoodie": {
-    "hidden": true,
-    "name": "Skeleton Ballon Hoodie",
-    "price": "238"
+  "6": {
+    "name": "Vetements Hoodie \"pull-up\"",
+    "price": "$78",
+    "cat": "Hoodies",
+    "tag": "",
+    "isNew": false,
+    "badge": "",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#e7e8ec",
+        "name": "Ash",
+        "tile": "#E7DBC7",
+        "img": "img/nonchalant-zip-white.png"
+      },
+      {
+        "color": "#544139",
+        "name": "Brown",
+        "tile": "#DAC7B2",
+        "img": "img/nonchalant-zip-brown.png"
+      },
+      {
+        "color": "#1A1613",
+        "name": "Onyx",
+        "tile": "#D6CAB6",
+        "img": "img/nonchalant-zip-black.png"
+      }
+    ]
   },
-  "athletics-zip": {
-    "name": "Athletics Zip Hoodie",
-    "price": "208"
-  },
-  "nonchalant-crew": {
+  "7": {
     "name": "Retro Sweatshirt",
-    "price": "188"
+    "price": "$68",
+    "cat": "Basics",
+    "tag": "",
+    "isNew": false,
+    "badge": "",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#E7E7E7",
+        "name": "Ash",
+        "tile": "#DDD6C7",
+        "img": "img/nonchalant-crew-ash.png"
+      },
+      {
+        "name": "Oat",
+        "color": "#ebe2cf",
+        "tile": "#E6DAC6",
+        "img": "admin-img/7-1.png"
+      }
+    ]
   },
-  "love-tee": {
-    "name": "I ♥ NON Box Tee",
-    "price": "138"
+  "8": {
+    "name": "O.G. Sweatpants",
+    "price": "$68",
+    "cat": "Bottoms",
+    "tag": "",
+    "isNew": false,
+    "badge": "",
+    "hidden": false,
+    "colors": [
+      {
+        "color": "#e0dbc9",
+        "name": "Oat",
+        "tile": "#DECFB8",
+        "img": "img/zos-sweatpants-sand.png"
+      },
+      {
+        "color": "#dadada",
+        "name": "Ash",
+        "tile": "#D9D2C4",
+        "img": "img/zos-sweatpants-fog.png"
+      }
+    ]
   },
-  "non-zip": {
-    "price": "208"
-  },
-  "world-tee": {
-    "price": "128"
-  },
-  "asl-longsleeve": {
-    "price": "158"
-  },
-  "beanie": {
-    "price": "68",
-    "tag": "Coming soon",
-    "hidden": true
-  }
+  "_order": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "_new": []
 }
