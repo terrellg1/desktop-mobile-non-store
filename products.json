@@ -64,12 +64,12 @@
         "color": "#3C3A38",
         "name": "Charcoal",
         "tile": "#D3CABA",
-        "img": "img/zos-ride-tee-charcoal.png"
+        "img": "admin-img/4-2.png"
       }
     ]
   },
   "5": {
-    "name": "Skeleton Hoodie \"pull-over\"",
+    "name": "Caged Hoodie \"pull-over\"",
     "price": "$78",
     "cat": "Hoodies",
     "tag": "",
@@ -81,20 +81,20 @@
         "color": "#e7e8ec",
         "name": "Ash",
         "tile": "#DDD3C2",
-        "img": "img/skeleton-hoodie-front.png",
+        "img": "admin-img/5-0.png",
         "back": "admin-img/5-0-back.png"
       },
       {
         "color": "#e6be78",
         "name": "Butter",
         "tile": "#E9DCA8",
-        "img": "img/zos-hoodie-yellow.png",
-        "back": "img/skeleton-hoodie-yellow.png"
+        "img": "admin-img/5-1.png",
+        "back": "admin-img/5-1-back.png"
       }
     ]
   },
   "6": {
-    "name": "Vetements Hoodie \"pull-up\"",
+    "name": "Vεtmɑ̃  Hoodie \"zip-up\"",
     "price": "$78",
     "cat": "Hoodies",
     "tag": "",
@@ -135,13 +135,7 @@
         "color": "#E7E7E7",
         "name": "Ash",
         "tile": "#DDD6C7",
-        "img": "img/nonchalant-crew-ash.png"
-      },
-      {
-        "name": "Oat",
-        "color": "#ebe2cf",
-        "tile": "#E6DAC6",
-        "img": "admin-img/7-1.png"
+        "img": "admin-img/7-0.png"
       }
     ]
   },
@@ -151,7 +145,7 @@
     "cat": "Bottoms",
     "tag": "",
     "isNew": false,
-    "badge": "",
+    "badge": "Best seller",
     "hidden": false,
     "colors": [
       {
@@ -175,7 +169,89 @@
     5,
     6,
     7,
-    8
+    8,
+    "custom-1784768577614",
+    "custom-1784768729323",
+    "custom-1784768799561"
   ],
-  "_new": []
+  "_new": [
+    {
+      "id": "custom-1784768577614",
+      "__new": true,
+      "name": "ASL Longsleeve Tee",
+      "price": "$54",
+      "cat": "Tees",
+      "tag": "",
+      "isNew": true,
+      "badge": "New",
+      "hidden": false,
+      "colors": [
+        {
+          "name": "Onyx",
+          "color": "#383838",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768577614-0.png",
+          "back": "admin-img/custom-1784768577614-0-back.png"
+        },
+        {
+          "name": "Bone",
+          "color": "#ebebeb",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768577614-1.png",
+          "back": "admin-img/custom-1784768577614-1-back.png"
+        },
+        {
+          "name": "Light Charcoal",
+          "color": "#5b5d5d",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768577614-2.png",
+          "back": "admin-img/custom-1784768577614-2-back.png"
+        }
+      ]
+    },
+    {
+      "id": "custom-1784768729323",
+      "__new": true,
+      "name": "Athletics Hoodie \"zip-up\"",
+      "price": "68",
+      "cat": "Hoodies",
+      "tag": "",
+      "isNew": true,
+      "badge": "New",
+      "hidden": false,
+      "colors": [
+        {
+          "name": "Default",
+          "color": "#CFC3B0",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768729323-0.png"
+        }
+      ]
+    },
+    {
+      "id": "custom-1784768799561",
+      "__new": true,
+      "name": "Retro Sweatpants",
+      "price": "$68",
+      "cat": "Bottoms",
+      "tag": "",
+      "isNew": true,
+      "badge": "",
+      "hidden": false,
+      "colors": [
+        {
+          "name": "Charcoal",
+          "color": "#5b5d5e",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768799561-0.png"
+        },
+        {
+          "name": "Ash",
+          "color": "#dddddd",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768799561-1.png"
+        }
+      ]
+    }
+  ]
 }
