@@ -11,10 +11,13 @@
       {
         "color": "#ffffff",
         "name": "Bone",
-        "tile": "#E7DBC7",
+        "tile": "#E6DAC6",
         "img": "admin-img/1-0.png"
       }
     ]
+  },
+  "2": {
+    "deleted": true
   },
   "3": {
     "name": "Love NON Tee",
@@ -28,7 +31,7 @@
       {
         "color": "#e5dbcf",
         "name": "Oat",
-        "tile": "#DFD0BA",
+        "tile": "#E6DAC6",
         "img": "admin-img/3-0.png"
       },
       {
@@ -51,19 +54,19 @@
       {
         "color": "#af9f87",
         "name": "Sand",
-        "tile": "#DECFB8",
+        "tile": "#E6DAC6",
         "img": "admin-img/4-0.png"
       },
       {
         "color": "#B7B7B7",
         "name": "Grey",
-        "tile": "#DAD4C8",
+        "tile": "#E6DAC6",
         "img": "admin-img/4-1.png"
       },
       {
         "color": "#3C3A38",
         "name": "Charcoal",
-        "tile": "#D3CABA",
+        "tile": "#E6DAC6",
         "img": "admin-img/4-2.png"
       }
     ]
@@ -80,14 +83,14 @@
       {
         "color": "#e7e8ec",
         "name": "Ash",
-        "tile": "#DDD3C2",
+        "tile": "#E6DAC6",
         "img": "admin-img/5-0.png",
         "back": "admin-img/5-0-back.png"
       },
       {
         "color": "#e6be78",
         "name": "Butter",
-        "tile": "#E9DCA8",
+        "tile": "#E6DAC6",
         "img": "admin-img/5-1.png",
         "back": "admin-img/5-1-back.png"
       }
@@ -105,19 +108,19 @@
       {
         "color": "#e7e8ec",
         "name": "Ash",
-        "tile": "#E7DBC7",
+        "tile": "#E6DAC6",
         "img": "img/nonchalant-zip-white.png"
       },
       {
         "color": "#544139",
         "name": "Brown",
-        "tile": "#DAC7B2",
+        "tile": "#E6DAC6",
         "img": "img/nonchalant-zip-brown.png"
       },
       {
         "color": "#1A1613",
         "name": "Onyx",
-        "tile": "#D6CAB6",
+        "tile": "#E6DAC6",
         "img": "img/nonchalant-zip-black.png"
       }
     ]
@@ -134,7 +137,7 @@
       {
         "color": "#E7E7E7",
         "name": "Ash",
-        "tile": "#DDD6C7",
+        "tile": "#E6DAC6",
         "img": "admin-img/7-0.png"
       }
     ]
@@ -151,13 +154,13 @@
       {
         "color": "#e0dbc9",
         "name": "Oat",
-        "tile": "#DECFB8",
+        "tile": "#E6DAC6",
         "img": "img/zos-sweatpants-sand.png"
       },
       {
         "color": "#dadada",
         "name": "Ash",
-        "tile": "#D9D2C4",
+        "tile": "#E6DAC6",
         "img": "img/zos-sweatpants-fog.png"
       }
     ]
