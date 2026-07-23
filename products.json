@@ -16,9 +16,6 @@
       }
     ]
   },
-  "2": {
-    "deleted": true
-  },
   "3": {
     "name": "Love NON Tee",
     "price": "$58",
@@ -216,7 +213,7 @@
       "id": "custom-1784768729323",
       "__new": true,
       "name": "Athletics Hoodie \"zip-up\"",
-      "price": "68",
+      "price": "78",
       "cat": "Hoodies",
       "tag": "",
       "isNew": true,
