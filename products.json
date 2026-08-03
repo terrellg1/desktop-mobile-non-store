@@ -1,7 +1,7 @@
 {
   "1": {
-    "name": " NON World Tee",
-    "price": "$1",
+    "name": "The World Tee",
+    "price": "$48",
     "cat": "Tees",
     "tag": "",
     "isNew": true,
@@ -26,16 +26,10 @@
     "hidden": false,
     "colors": [
       {
-        "color": "#e5dbcf",
-        "name": "Oat",
-        "tile": "#E6DAC6",
-        "img": "admin-img/3-0.png"
-      },
-      {
         "name": "Bone",
         "color": "#ffffff",
         "tile": "#E6DAC6",
-        "img": "admin-img/3-1.png"
+        "img": "admin-img/3-0.png"
       }
     ]
   },
@@ -69,7 +63,7 @@
     ]
   },
   "5": {
-    "name": "Caged Hoodie \"pull-over\"",
+    "name": "Sketch em’ Hoodie \"pull-over\"",
     "price": "$78",
     "cat": "Hoodies",
     "tag": "",
@@ -78,18 +72,10 @@
     "hidden": false,
     "colors": [
       {
-        "color": "#e7e8ec",
-        "name": "Ash",
+        "name": "Light Oat",
+        "color": "#faf7f2",
         "tile": "#E6DAC6",
-        "img": "admin-img/5-0.png",
-        "back": "admin-img/5-0-back.png"
-      },
-      {
-        "color": "#e6be78",
-        "name": "Butter",
-        "tile": "#E6DAC6",
-        "img": "admin-img/5-1.png",
-        "back": "admin-img/5-1-back.png"
+        "img": "admin-img/5-0.png"
       }
     ]
   },
@@ -106,19 +92,19 @@
         "color": "#e7e8ec",
         "name": "Ash",
         "tile": "#E6DAC6",
-        "img": "img/nonchalant-zip-white.png"
+        "img": "admin-img/6-0.png"
       },
       {
         "color": "#544139",
         "name": "Brown",
         "tile": "#E6DAC6",
-        "img": "img/nonchalant-zip-brown.png"
+        "img": "admin-img/6-1.png"
       },
       {
         "color": "#1A1613",
         "name": "Onyx",
         "tile": "#E6DAC6",
-        "img": "img/nonchalant-zip-black.png"
+        "img": "admin-img/6-2.png"
       }
     ]
   },
@@ -152,13 +138,13 @@
         "color": "#e0dbc9",
         "name": "Oat",
         "tile": "#E6DAC6",
-        "img": "img/zos-sweatpants-sand.png"
+        "img": "admin-img/8-0.png"
       },
       {
         "color": "#dadada",
         "name": "Ash",
         "tile": "#E6DAC6",
-        "img": "img/zos-sweatpants-fog.png"
+        "img": "admin-img/8-1.png"
       }
     ]
   },
@@ -213,7 +199,7 @@
       "id": "custom-1784768729323",
       "__new": true,
       "name": "Athletics Hoodie \"zip-up\"",
-      "price": "78",
+      "price": "$78",
       "cat": "Hoodies",
       "tag": "",
       "isNew": true,
@@ -250,6 +236,12 @@
           "color": "#dddddd",
           "tile": "#E6DAC6",
           "img": "admin-img/custom-1784768799561-1.png"
+        },
+        {
+          "name": "Oat",
+          "color": "#ebdbc8",
+          "tile": "#E6DAC6",
+          "img": "admin-img/custom-1784768799561-2.png"
         }
       ]
     }
